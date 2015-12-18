@@ -28,13 +28,16 @@
                 <div class="col-lg-7 col-md-12">
                     <h1>ПРОЭКТ 8-9 КЛАСС</h1>
                     ЗДЕСЬ БУДЕТ ВСЁ О ЭТОМ
+                   
+
+                </div>
+                <div class="col-lg-7 col-md-12">
                     <a href="2.1.php">пункт</a>
                     <a href="2.2.php">пункт</a>
                     <a href="2.3.php">пункт</a>
                     <a href="2.4.php">пункт</a>
                     <a href="2.5.php">пункт</a>
-
-                </div>
+                    </div>
             </div>
            
 </div><!--/row-->
