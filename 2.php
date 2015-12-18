@@ -31,12 +31,23 @@
                    
 
                 </div>
-                <div class="col-lg-7 col-md-12">
-                    <a href="2.1.php">пункт</a>
-                    <a href="2.2.php">пункт</a>
-                    <a href="2.3.php">пункт</a>
-                    <a href="2.4.php">пункт</a>
-                    <a href="2.5.php">пункт</a>
+                    <div class="col-lg-7 col-md-12">
+                    <a href="2.1.php">пункт1</a>
+                    </div>
+                    <div class="col-lg-7 col-md-12">
+                    <a href="2.2.php">пункт2</a>
+                    </div>
+                    <div class="col-lg-7 col-md-12">
+                    <a href="2.3.php">пункт3</a>
+                    </div>
+                    <div class="col-lg-7 col-md-12">
+                    <a href="2.4.php">пункт4</a>
+                    </div>
+                    <div class="col-lg-7 col-md-12">
+                    <a href="2.5.php">пункт5</a>
+                    </div>
+                    <div class="col-lg-7 col-md-12">
+                    <a href="2.6.php">пункт6</a>
                     </div>
             </div>
            
