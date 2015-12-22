@@ -2,10 +2,10 @@
 <div>
     <ul class="breadcrumb">
         <li>
-            <a href="#">Home</a>
+            <a href="#">Сайт</a>
         </li>
         <li>
-            <a href="#">Dashboard</a>
+            <a href="#">Выбор</a>
         </li>
     </ul>
 </div>
@@ -22,7 +22,7 @@
             </div>
             <div class="box-content">
                 <div class="row">
-                    <h1 style="padding-left:9px;"> <a href="1.php">6-7 класс</a> </h1>
+                    <h1 style="padding-left:9px;"> <a href="67.php">6-7 класс</a> </h1>
                 </div>
             </div>
         </div>
@@ -40,7 +40,7 @@
             </div>
             <div class="box-content">
                 <div class="row">
-                    <h1 style="padding-left:9px;"> <a href="2.php"> 8-9 класс </a> </h1>
+                    <h1 style="padding-left:9px;"> <a href="89.php"> 8-9 класс </a> </h1>
                 </div>
             </div>
         </div>
